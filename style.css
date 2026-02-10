@@ -1,12 +1,3 @@
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Boutique de Bijoux</title>
-
-    <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f9f9f9;
@@ -53,46 +44,3 @@
             color: #b8860b;
             text-decoration: none;
         }
-    </style>
-</head>
-<body>
-
-    <header>
-        <h1>Élégance Bijoux</h1>
-        <p>Bijoux raffinés pour toutes les occasions</p>
-    </header>
-
-    <main>
-        <h2>Nos produits</h2>
-
-        <div class="produit">
-            <h3>Bague en or</h3>
-            <p>Bague en or 18 carats avec finition brillante.</p>
-            <p class="prix">299 €</p>
-        </div>
-
-        <div class="produit">
-            <h3>Collier en argent</h3>
-            <p>Collier en argent massif avec pendentif élégant.</p>
-            <p class="prix">149 €</p>
-        </div>
-
-        <div class="produit">
-            <h3>Bracelet en perles</h3>
-            <p>Bracelet composé de perles naturelles.</p>
-            <p class="prix">89 €</p>
-        </div>
-
-        <h2>Commander</h2>
-        <p>
-            Pour passer commande, contactez-nous :
-            <a href="mailto:contact@elegancebijoux.fr">contact@elegancebijoux.fr</a>
-        </p>
-    </main>
-
-    <footer>
-        <p>© 2026 - Élégance Bijoux</p>
-    </footer>
-
-</body>
-</html>
